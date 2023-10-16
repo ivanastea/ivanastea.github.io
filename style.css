@@ -1,6 +1,23 @@
 @charset "UTF-8";
+
 body h1 {
 }
 body {
     background-color: hotpink;
 }
+body {
+    background-color: grey;
+}
+a {
+    background-color: pink;
+}
+h1 {
+    background-color: grey;
+}
+h2 {
+    background-color: pink;
+}
+</style>
+</head>
+
+
